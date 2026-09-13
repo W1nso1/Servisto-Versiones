@@ -1,7 +1,5 @@
 {
   "version": "0.6.0",
-  "build_number": 1,
-  "download_url": "https://github.com/W1nso1/Servisto-Versiones/blob/db3cb48f76f672312c7c24ac26ab1d10c05c2ef9/ServistoSetup.exe",
-  "changelog": "PrimeraVersion",
-  "mandatory": false
+  "installer_url": "https://raw.githubusercontent.com/W1nso1/Servisto-Versiones/main/ServistoSetup.exe",
+  "notas": "PrimeraVersion"
 }
