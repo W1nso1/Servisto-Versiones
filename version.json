@@ -1,5 +1,6 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "installer_url": "https://raw.githubusercontent.com/W1nso1/Servisto-Versiones/main/ServistoSetup.exe",
-  "notas": "Cambio de interfaz, añadidos campos en inventario, menú y preparación para estadísticas"
+  "notas": "Cambio de interfaz, añadidos campos en inventario, menú y preparación para estadísticas.",
+  "subnotas": "Cambio de tamaño carta de inventario."
 }
